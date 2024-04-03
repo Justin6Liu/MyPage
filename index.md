@@ -33,4 +33,3 @@ Here are some tasks I need to complete for this lab:
 Here are some of my favorite memes from Prof Powell:
 ![meme1](pictures\meme1.png)
 ![meme2](pictures\meme2.png)
-![meme3](pictures\meme3.png)
