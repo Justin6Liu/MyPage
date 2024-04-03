@@ -7,7 +7,7 @@
 print("Hello World")
 ```
 
-[my profile picture](pictures\profile_pic.png)
+[my profile picture](pictures/profile_pic.png)
 
 # A new section
 
@@ -31,5 +31,5 @@ Here are some tasks I need to complete for this lab:
 - [ ] Task lists
 
 Here are some of my favorite memes from Prof Powell:
-![meme1](pictures\meme1.png)
-![meme2](pictures\meme2.png)
+![meme1](pictures/meme1.png)
+![meme2](pictures/meme2.png)
