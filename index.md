@@ -7,8 +7,8 @@
 print("Hello World")
 ```
 
-[my profile picture](pictures\s1.png)
+[my profile picture](s1.png)
 
 # A new section
 
-[Link to README.md](MyPage\README.md)
+[Link to README.md](README.md)
